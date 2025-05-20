@@ -5,4 +5,4 @@ Used:
 
 Ollama for on device model run of llama 3.2
 
-Used mxbai-embed-large for embeddings.
+Used mxbai-embed-large for vector embeddings of text from documents.
